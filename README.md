@@ -1,2 +1,0 @@
-# c-language
-c language
