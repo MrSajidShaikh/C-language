@@ -2,7 +2,6 @@
 #include<conio.h>
 main()
 {
-	printf("Count total number of digits in a number ?");
 	int count,x=0;
 	
 	printf("\n\nEnter any no.:= ");
