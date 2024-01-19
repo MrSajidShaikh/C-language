@@ -13,12 +13,12 @@ main()
 	
 	if(bs<=15000)
 	{
-        hra = (bs * 10) / 100;
-        printf("\nHRA := %0.2f",hra);
-        da = (bs * 7) / 100;
-        printf("\nDA := %0.2f",da);
-	    ta = (bs * 4) / 100;
-	    printf("\nTA := %0.2f",ta);
+       		hra = (bs * 10) / 100;
+       		printf("\nHRA := %0.2f",hra);
+       		da = (bs * 7) / 100;
+       		printf("\nDA := %0.2f",da);
+		ta = (bs * 4) / 100;
+	    	printf("\nTA := %0.2f",ta);
 	}
 	// if basic salary <=40000 then [hra = 13% + da = 9% + ta = 7%]
 	else
